@@ -20,7 +20,7 @@ const vip2 = 'vip/home';
 const vip3 = 'x/v2/account/mine';
 const vip4 = 'x/v2/account/myinfo';
 if (url.indexOf(vip1) != -1) {
-obj.data.account.name="公众号iosrule";
+obj.data.account.name="WiITUILU";
 obj.data.account.rank=88888;
 
 obj.data.vip.type=1;
